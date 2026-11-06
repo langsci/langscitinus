@@ -6,7 +6,7 @@ However, since it has been maintained by a single person it understandably has a
 
 The image below is a before-and-after of fixing the position of a diacritic on the Lateral Click glyph. The characters on the left are two lateral clicks with misplaced acute and grave accents from Libertinus (before), with the ones on the right being the improved characters from Langscitinus (after).
 
-![Lateral clicks with misplaced accent marks on the left and adjusted accent marks on the right.](https://github.com/langsci/langscitinus/blob/main/before_after.pdf)
+![Lateral clicks with misplaced accent marks on the left and adjusted accent marks on the right.](https://github.com/langsci/langscitinus/blob/main/before_after.png)
 
 As of September 2026, the Libertinus repo hasn't been updated in a while which is why we decided against requesting the creator of Libertinus to incorporate our changes into the "official" Libertinus Serif fonts.
 
