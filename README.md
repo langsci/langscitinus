@@ -4,9 +4,9 @@ Libertinus Serif is an extensive font family that has a lot of specialized chara
 
 However, since it has been maintained by a single person it understandably has a lot of gaps that need to be addressed for it to be suitable for our books. These gaps turn up semi-regularly in our publishing process. A lot of uncommon glyph-diacritic combinations don't get displayed correctly in Libertinus. Additionally, rare letters that are used in lesser-known languages may not exist as Libertinus glyphs at all. This is a problem when publishing books in or about these lesser-known languages. When that happens we update the fonts and collect all cumulative changes in this repo. We call the result _Langscitinus_ (a portmanteau of _LangSci Press_ and _Libertinus_).
 
-The images below are a before-and-after of fixing the position of a diacritic on the Lateral Click glyph. The image on the left is two lateral clicks with misplaced acute and grave accents from Libertinus (before), with the one on the right being the improved characters from Langscitinus (after).
+The image below is a before-and-after of fixing the position of a diacritic on the Lateral Click glyph. The characters on the left are two lateral clicks with misplaced acute and grave accents from Libertinus (before), with the ones on the right being the improved characters from Langscitinus (after).
 
-![two lateral clicks with misplaced accute and grave accents (Libertinus)](https://github.com/langsci/langscitinus/blob/main/before.png) ![two lateral clicks with adjusted accute and grave accent placement (Langscitinus)](https://github.com/langsci/langscitinus/blob/main/after.png)
+![Lateral clicks with misplaced accent marks on the left and adjusted accent marks on the right.](https://github.com/langsci/langscitinus/blob/main/before_after.png)
 
 As of September 2026, the Libertinus repo hasn't been updated in a while which is why we decided against requesting the creator of Libertinus to incorporate our changes into the "official" Libertinus Serif fonts.
 
