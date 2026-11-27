@@ -10,4 +10,6 @@ The image below is a before-and-after of fixing the position of a diacritic on t
 
 As of September 2026, the Libertinus repo hasn't been updated in a while which is why we decided against requesting the creator of Libertinus to incorporate our changes into the "official" Libertinus Serif fonts.
 
+If you intend to further adapt Langscitinus font files to your needs, you can do that by downloading the .sfd files (see the ``sources`` folder), making your changes, and generating new .otf files. Changing .otf files directly is not advisable as it causes problems. 
+
 Langscitinus is released under the terms of the SIL Open Font License, version 1.1.
